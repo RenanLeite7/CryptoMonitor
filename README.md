@@ -1,6 +1,5 @@
-# Exercício Projeto CryptoMonitor Android - 3SIT
-commits Github professor:
-"Limpando códigos não necessários da MainActivity.kt" até "Criando o payload de resposta da API aberta do BITCOIN".
+# Checkpoint 3 -  Projeto CryptoMonitor Android - 3SIT
+
 
 ## Integrantes:
 - Arthur Miranda Santos - RM 93023
